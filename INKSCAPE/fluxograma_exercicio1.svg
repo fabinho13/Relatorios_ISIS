@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="1200"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fluxograma__envio_de_caracter.pdf">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3967"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3970"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71083333"
+     inkscape:cx="400"
+     inkscape:cy="600"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     showguides="false"
+     inkscape:snap-global="true"
+     inkscape:snap-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox-midpoints="false">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,744.09448"
+       id="guide3122" />
+    <sodipodi:guide
+       position="744.09448,0"
+       orientation="-1052.3622,0"
+       id="guide3124" />
+    <sodipodi:guide
+       position="744.09448,1052.3622"
+       orientation="0,-744.09448"
+       id="guide3126" />
+    <sodipodi:guide
+       position="0,1052.3622"
+       orientation="1052.3622,0"
+       id="guide3128" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3130"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,744.09448"
+       id="guide3132" />
+    <sodipodi:guide
+       position="744.09448,0"
+       orientation="-1052.3622,0"
+       id="guide3134" />
+    <sodipodi:guide
+       position="744.09448,1052.3622"
+       orientation="0,-744.09448"
+       id="guide3136" />
+    <sodipodi:guide
+       position="0,1052.3622"
+       orientation="1052.3622,0"
+       id="guide3138" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,147.63782)"
+     style="display:inline">
+    <rect
+       style="fill:#c8c8aa;fill-opacity:1;stroke:#800000;stroke-width:4.16800022;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3001"
+       width="216.34531"
+       height="69.138893"
+       x="283.5322"
+       y="187.66934" />
+    <rect
+       style="fill:#c8c8aa;fill-opacity:1;stroke:#800000;stroke-width:4.16800022;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3001-4"
+       width="216.34531"
+       height="69.138893"
+       x="283.5322"
+       y="324.75531" />
+    <rect
+       style="fill:#c8c8aa;fill-opacity:1;stroke:#800000;stroke-width:4.16800022;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3001-3-2"
+       width="226.41222"
+       height="72.356041"
+       x="278.49875"
+       y="48.974751" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="362.5036"
+       y="89.690063"
+       id="text6622"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6624"
+         x="362.5036"
+         y="89.690063">inicio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="324.13715"
+       y="226.33981"
+       id="text6654"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6656"
+         x="324.13715"
+         y="226.33981">serial_config</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="330.27948"
+       y="366.75055"
+       id="text6658"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6660"
+         x="330.27948"
+         y="366.75055">sbuf&lt;-carac</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="207.80005"
+       y="438.42828"
+       id="text6662"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6664"
+         x="207.80005"
+         y="438.42828" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="858.90009"
+       y="317.42941"
+       id="text10676"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-147.63782)"><tspan
+         sodipodi:role="line"
+         id="tspan10678"
+         x="858.90009"
+         y="317.42941"
+         style="font-size:40px;font-family:verdana;-inkscape-font-specification:verdana" /></text>
+    <rect
+       style="fill:#c8c8aa;fill-opacity:1;stroke:#800000;stroke-width:4.69241571;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect2995"
+       width="123.01283"
+       height="123.01283"
+       x="721.77478"
+       y="285.79663"
+       transform="matrix(0.89845064,0.43907453,-0.89845064,0.43907453,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.06806183px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.87783593;stroke-opacity:1;display:inline;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="328.28815"
+       y="577.34875"
+       id="text6626"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-y="20.262218"
+       transform="scale(1.1455351,0.87295448)"><tspan
+         sodipodi:role="line"
+         x="328.28815"
+         y="577.34875"
+         id="tspan6630"
+         style="stroke-width:0.87783593">!TI</tspan></text>
+    <rect
+       style="fill:#c8c8aa;fill-opacity:1;stroke:#800000;stroke-width:4.16800022;stroke-linejoin:round;stroke-miterlimit:5.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3001-4-0"
+       width="216.34531"
+       height="69.138893"
+       x="283.5322"
+       y="598.92737" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="367.22916"
+       y="641.72882"
+       id="text6658-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6660-4"
+         x="367.22916"
+         y="641.72882">TI=0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 391.70485,121.33079 0,66.33855"
+       id="path4103"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3001-3-2"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect3001"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 391.70485,393.8942 0,48.50474"
+       id="path4105"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3001-4"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect2995"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 391.70485,550.42255 0,48.50482"
+       id="path4107"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect2995"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect3001-4-0"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 391.70485,256.80824 0,67.94707"
+       id="path4109"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect3001"
+       inkscape:connection-start-point="d4"
+       inkscape:connection-end="#rect3001-4"
+       inkscape:connection-end-point="d4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 502.22578,496.41074 96.54533,0 0,-84.05175 -207.06628,0"
+       id="path5031"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 283.53218,633.49684 -85.2452,0 0,-347.18352 193.41786,0"
+       id="path5403"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="550.49847"
+       y="496.41074"
+       id="text5589"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5591"
+         x="550.49847"
+         y="496.41074">sim</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Pagella;-inkscape-font-specification:TeX Gyre Pagella"
+       x="391.70483"
+       y="574.67499"
+       id="text5593"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5595"
+         x="391.70483"
+         y="574.67499">não</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="simnao"
+     style="display:inline" />
+</svg>

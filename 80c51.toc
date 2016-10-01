@@ -1,0 +1,67 @@
+\select@language {brazilian}
+\contentsline {section}{Lista de Figuras}{4}{section*.4}
+\contentsline {section}{\numberline {1}Proteus}{5}{section.1}
+\contentsline {subsection}{\numberline {1.1}Proteus Interface}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Proteus ISIS Interface}{8}{subsection.1.2}
+\contentsline {section}{\numberline {2}Simula\IeC {\c c}\IeC {\~a}o 80c51 Assembler}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}Pr\IeC {\'a}ticas Bot\IeC {\~o}es e Leds}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Simula\IeC {\c c}\IeC {\~a}o Mem\IeC {\'o}ria Ram e Rom Externas}{12}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Comunica\IeC {\c c}\IeC {\~a}o Serial}{15}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Timers, Interrup\IeC {\c c}\IeC {\~o}es e Contadores : Projeto Conversor AD}{19}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Conversores e Breve Convers\IeC {\~a}o AD e DA}{19}{subsubsection.2.4.1}
+\contentsline {subsection}{\numberline {2.5}Conversor AD e DA Controlado Pelo 80c51}{20}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Motor de Passo}{24}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Display de Sete Segmetos e LCD}{26}{subsection.2.7}
+\contentsline {subsubsection}{\numberline {2.7.1}Display LCD}{28}{subsubsection.2.7.1}
+\contentsline {section}{\numberline {3}Projetos 80c51 em Linguagem C}{31}{section.3}
+\contentsline {subsection}{\numberline {3.1}Motor de Passo Controlado Pela Interface Serial}{31}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Frequ\IeC {\^e}ncimetro}{33}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Term\IeC {\^o}metro com Tabela e Polin\IeC {\^o}mio}{34}{subsection.3.3}
+\contentsline {section}{\numberline {4}Projeto de Dipositivos Decodificados}{37}{section.4}
+\contentsline {section}{\numberline {5}Conclus\IeC {\~o}es}{39}{section.5}
+\contentsline {section}{\numberline {6}Ap\IeC {\^e}ndice1--C\IeC {\'o}digos--Assembler}{40}{section.6}
+\contentsline {subsection}{\numberline {6.1}Programa:Chaves e Bot\IeC {\~o}es}{40}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Prgrama:Chaves e Bot\IeC {\~o}es Com Op\IeC {\c c}\IeC {\~a}o de Piscar Led3 e Led1}{41}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Programa que Preenche uma Mem\IeC {\'o}ria Ram Externa de 64Kbytes}{43}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Envio Continuo de Caracter, Caracter Considerado 'F'}{44}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Programa Que Envia Frase Para Serial Dependendo da Letra de Entrada}{45}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Conversor AD DA ideal}{49}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}Exerc\IeC {\'\i }cio Conversor AD}{50}{subsection.6.7}
+\contentsline {subsection}{\numberline {6.8}Exerc\IeC {\'\i }cio Motor de Passo}{52}{subsection.6.8}
+\contentsline {subsection}{\numberline {6.9}Exerc\IeC {\'\i }cio:Display De Sete Segmentos}{54}{subsection.6.9}
+\contentsline {subsection}{\numberline {6.10}Programa LCD 8 Bits}{55}{subsection.6.10}
+\contentsline {subsection}{\numberline {6.11}Programa LCD 4 Bits}{57}{subsection.6.11}
+\contentsline {section}{\numberline {7}Programas em Linguagem C Compiladas por SDCC}{59}{section.7}
+\contentsline {subsection}{\numberline {7.1}Bot\IeC {\~o}es e Chaves}{59}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Envio Continuo de Caracter}{60}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Envio De Caracter Via Interrup\IeC {\c c}\IeC {\~a}o}{61}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}LCD 8 Bits}{62}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}LCD 4 Bits}{64}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Envio De Frase Dependendo da Letra}{66}{subsection.7.6}
+\contentsline {subsection}{\numberline {7.7}Frequ\IeC {\^e}ncimetro}{68}{subsection.7.7}
+\contentsline {subsubsection}{\numberline {7.7.1}Arquivo main.c}{68}{subsubsection.7.7.1}
+\contentsline {subsubsection}{\numberline {7.7.2}arquivo lcd.c}{69}{subsubsection.7.7.2}
+\contentsline {subsubsection}{\numberline {7.7.3}arquivo frequencimetro.h}{71}{subsubsection.7.7.3}
+\contentsline {subsection}{\numberline {7.8}Motor de Passo}{72}{subsection.7.8}
+\contentsline {subsubsection}{\numberline {7.8.1}Arquivo main.c}{72}{subsubsection.7.8.1}
+\contentsline {subsubsection}{\numberline {7.8.2}arquivo serialconfig.c}{77}{subsubsection.7.8.2}
+\contentsline {subsubsection}{\numberline {7.8.3}arquivo MOTORDEPASSO.h}{77}{subsubsection.7.8.3}
+\contentsline {subsection}{\numberline {7.9}Term\IeC {\^o}metro Indefinido}{79}{subsection.7.9}
+\contentsline {subsubsection}{\numberline {7.9.1}arquivo main.c}{79}{subsubsection.7.9.1}
+\contentsline {subsubsection}{\numberline {7.9.2}arquivo timerinterruptconfig.c}{81}{subsubsection.7.9.2}
+\contentsline {subsubsection}{\numberline {7.9.3}arquivo TERMOMETRO.h}{82}{subsubsection.7.9.3}
+\contentsline {subsection}{\numberline {7.10}Term\IeC {\^o}metro com Tabela}{83}{subsection.7.10}
+\contentsline {subsubsection}{\numberline {7.10.1}Arquivo main.c}{83}{subsubsection.7.10.1}
+\contentsline {subsubsection}{\numberline {7.10.2}arquivo interruptconfig.c}{85}{subsubsection.7.10.2}
+\contentsline {subsubsection}{\numberline {7.10.3}arquivo TERMOMETRO.h}{86}{subsubsection.7.10.3}
+\contentsline {subsection}{\numberline {7.11}Term\IeC {\^o}metro com Polin\IeC {\^o}mio}{87}{subsection.7.11}
+\contentsline {subsubsection}{\numberline {7.11.1}Arquivo main.c}{87}{subsubsection.7.11.1}
+\contentsline {subsubsection}{\numberline {7.11.2}arquivo TERMOMETRO.h}{89}{subsubsection.7.11.2}
+\contentsline {subsubsection}{\numberline {7.11.3}arquivo serialtimerconfig}{90}{subsubsection.7.11.3}
+\contentsline {section}{\numberline {8}Ap\IeC {\^e}ndice2: Simula\IeC {\c c}\IeC {\~a}o no Proteus do Sistema Motor DC}{91}{section.8}
+\contentsline {section}{\numberline {9}Revis\IeC {\~a}o de trabalhos feito no Proteus}{91}{section.9}
+\contentsline {section}{\numberline {10}Simula\IeC {\c c}\IeC {\~o}es em Malha aberta}{91}{section.10}
+\contentsline {section}{\numberline {11}Simula\IeC {\c c}\IeC {\~o}es do Controle em Malha Fechada.}{93}{section.11}
+\contentsline {section}{\numberline {12}Simula\IeC {\c c}\IeC {\~a}o PWM no Proteus e Constru\IeC {\c c}\IeC {\~a}o da Placa de Controle}{93}{section.12}
+\contentsline {section}{\numberline {13}Conclus\IeC {\~a}o Simula\IeC {\c c}\IeC {\~a}o Proteus}{95}{section.13}
+\contentsline {section}{Refer\^encias}{96}{section*.47}

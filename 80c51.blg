@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 80c51.aux
+The style file: unsrt.bst
+Database file #1: 80c51.bib
+You're missing a field name---line 81 of file 80c51.bib
+ : year =         "2010",
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--empty year in busca_de_maxima_potencia_com_sistemas_microcontrolados
+Too many commas in name 1 of "Sun Rong-xia, Guo Liang, Ji Na,Liu Wei,Zhou Ying-chang" for entry pesticida
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Sun Rong-xia, Guo Liang, Ji Na,Liu Wei,Zhou Ying-chang" for entry pesticida
+while executing---line 944 of file unsrt.bst
+Warning--empty year in pesticida
+Warning--empty year in caracteres_chineses
+Too many commas in name 1 of "J. R. Friedman, V. Patel, W. Chen, S. K. Tolpygo and J. E. Lukens" for entry contrucao_microconputador_proteus
+while executing---line 944 of file unsrt.bst
+Name 1 in "Ahmad Shukri Bin Fazil Rahman, and Abdul Rahim Bin Abdul Raza" has a comma at the end for entry controle_de_carga
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Jartin Aroram,Gagandeep,Sarvesh SS Rawat,Karthik Srinivasam,Vikram,Puri" for entry voltimetro_digital
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Jartin Aroram,Gagandeep,Sarvesh SS Rawat,Karthik Srinivasam,Vikram,Puri" for entry voltimetro_digital
+while executing---line 944 of file unsrt.bst
+Too many commas in name 1 of "Jartin Aroram,Gagandeep,Sarvesh SS Rawat,Karthik Srinivasam,Vikram,Puri" for entry voltimetro_digital
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in voltimetro_digital
+Warning--empty year in voltimetro_digital
+You've used 13 entries,
+            1791 wiz_defined-function locations,
+            506 strings with 5905 characters,
+and the built_in function-call counts, 3295 in all, are:
+= -- 328
+> -- 64
+< -- 8
++ -- 29
+- -- 16
+* -- 144
+:= -- 458
+add.period$ -- 38
+call.type$ -- 13
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 192
+empty$ -- 315
+format.name$ -- 16
+if$ -- 803
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 67
+num.names$ -- 13
+pop$ -- 45
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 149
+stack$ -- 0
+substring$ -- 256
+swap$ -- 92
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 29
+width$ -- 15
+write$ -- 134
+(There were 8 error messages)
